@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Post #2"
+date:   2013-09-06 2:00:00
+categories: jekyll update posts 
+---
+
+# Post 2
+
+This is my second post
+
+## Testing MD syntax
+
+* List item 1
+* List item 2
+* List item 3
+
+## Python Code
+
+{% highlight python %}
+
+x = [ y for y in range(10) ]
+
+def checkXItems(x):
+    if x.length == 10:
+        return True
+    else:
+        return False
+
+{% endhighlight %}
+
+[jekyll-gh]: https://github.com/mojombo/jekyll
+[jekyll]:    http://jekyllrb.com
