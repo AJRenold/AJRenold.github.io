@@ -5,8 +5,10 @@ date:   2013-09-06 2:00:00
 categories: blog
 ---
 
-Welcome! This is the home of my blog. I'll be using this blog this semester (Fall of 2013) to blog about a couple of classes and projects that I am working on.
-I'm creating this blog with the help of [Jekyll][jekyll] and running it with [Github pages](http://jekyllrb.com/docs/github-pages/) to have some fun learning about these
-technologies. I'll also be using markdown for the first time to author blog posts!
+Welcome! This is the home of my blog. I'll be using this blog this semester (Fall of 2013) 
+to blog about a couple of classes and projects that I am working on. I'm creating this blog 
+with the help of [Jekyll][jekyll] and running it with [Github pages](http://jekyllrb.com/docs/github-pages/) 
+to have some fun learning about these technologies. I'll also be using [markdown](http://en.wikipedia.org/wiki/Markdown) for 
+the first time to author blog posts!
 
 [jekyll]:    http://jekyllrb.com
