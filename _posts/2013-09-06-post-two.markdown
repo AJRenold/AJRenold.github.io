@@ -1,33 +1,12 @@
 ---
 layout: post
-title:  "Post #2"
+title:  "First Post!"
 date:   2013-09-06 2:00:00
-categories: jekyll update posts 
+categories: blog
 ---
 
-# Post 2
+Welcome! This is the home of my blog. I'll be using this blog this semester (Fall of 2013) to blog about a couple of classes and projects that I am working on.
+I'm creating this blog with the help of [Jekyll][jekyll] and running it with [Github pages](http://jekyllrb.com/docs/github-pages/) to have some fun learning about these
+technologies. I'll also be using markdown for the first time to author blog posts!
 
-This is my second post
-
-## Testing MD syntax
-
-* List item 1
-* List item 2
-* List item 3
-
-## Python Code
-
-{% highlight python %}
-
-x = [ y for y in range(10) ]
-
-def checkXItems(x):
-    if x.length == 10:
-        return True
-    else:
-        return False
-
-{% endhighlight %}
-
-[jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
